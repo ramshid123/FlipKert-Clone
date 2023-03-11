@@ -26,5 +26,5 @@ To run this project run
 ```
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/ramshid123/FlipKert-Clone/main/info/screenshot.png)
+<img src="[https://raw.githubusercontent.com/ramshid123/FlipKert-Clone/main/info/icon.png](https://raw.githubusercontent.com/ramshid123/FlipKert-Clone/main/info/screenshot.png)" alt="logo" width="600" height="600" />
 
