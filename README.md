@@ -1,16 +1,30 @@
-# flipkert_clone
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://raw.githubusercontent.com/ramshid123/FlipKert-Clone/main/info/icon.png" alt="logo" width="200" height="200" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# FlipKert Clone
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A home page clone of Flipkart app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Author
+
+- [@ramshid123](https://www.github.com/ramshid123)
+
+
+## Run
+
+To run this project run
+
+```bash
+  flutter devices
+```
+
+```bash
+  flutter run -d <Android device ID>
+```
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/ramshid123/FlipKert-Clone/main/info/screenshot.png)
+
